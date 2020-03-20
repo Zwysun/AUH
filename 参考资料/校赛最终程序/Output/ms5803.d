@@ -1,0 +1,17 @@
+..\..\output\ms5803.o: ..\..\User\MS5803.c
+..\..\output\ms5803.o: ..\..\User\MS5803.h
+..\..\output\ms5803.o: ..\..\User\sys.h
+..\..\output\ms5803.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\ms5803.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\ms5803.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\ms5803.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\ms5803.o: ..\..\User\stm32f10x_conf.h
+..\..\output\ms5803.o: ..\..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\..\output\ms5803.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\ms5803.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\ms5803.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\ms5803.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\output\ms5803.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\ms5803.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\ms5803.o: ..\..\User\i2c.h
+..\..\output\ms5803.o: ..\..\User\delay.h

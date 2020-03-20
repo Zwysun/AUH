@@ -1,0 +1,33 @@
+
+T3914 000:338 SEGGER J-Link V4.96d Log File (0001ms, 0271ms total)
+T3914 000:338 DLL Compiled: Jan 29 2015 11:45:37 (0001ms, 0271ms total)
+T3914 000:338 Logging started @ 2019-07-10 23:57 (0001ms, 0271ms total)
+T3914 000:339 JLINK_SetWarnOutHandler(...) (0000ms, 0271ms total)
+T3914 000:339 JLINK_OpenEx(...)
+Firmware: J-Link V9 compiled May 17 2019 09:50:41
+Hardware: V9.40
+S/N: 59400616
+Feature(s): RDI, FlashBP, FlashDL, JFlash, GDB  returns O.K. (0263ms, 0534ms total)
+T3914 000:602 JLINK_SetErrorOutHandler(...) (0000ms, 0534ms total)
+T3914 000:602 JLINK_ExecCommand("ProjectFile = "C:\Users\ASUS\Desktop\Uydrosnapper_latest\USER\JLinkSettings.ini"", ...)  returns 0x00 (0000ms, 0534ms total)
+T3914 000:609 JLINK_ExecCommand("Device = STM32F103VC", ...)Device "STM32F103VC" selected.  returns 0x00 (0012ms, 0546ms total)
+T3914 000:621 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0546ms total)
+T3914 000:621 JLINK_GetHardwareVersion()  returns 0x16F30 (0000ms, 0546ms total)
+T3914 000:621 JLINK_GetDLLVersion()  returns 49604 (0000ms, 0546ms total)
+T3914 000:621 JLINK_GetFirmwareString(...) (0000ms, 0546ms total)
+T3914 000:659 JLINK_GetDLLVersion()  returns 49604 (0000ms, 0546ms total)
+T3914 000:659 JLINK_GetCompileDateTime() (0000ms, 0546ms total)
+T3914 000:666 JLINK_GetFirmwareString(...) (0000ms, 0546ms total)
+T3914 000:673 JLINK_GetHardwareVersion()  returns 0x16F30 (0001ms, 0547ms total)
+T3914 000:699 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0001ms, 0548ms total)
+T3914 000:700 JLINK_SetSpeed(10000) (0000ms, 0548ms total)
+T3914 000:700 JLINK_GetId() >0x108 TIF> >0x108 TIF>STM32Fxxxx: Cannot attach to CPU. Trying connect under reset. >0x108 TIF> >0x108 TIF>
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x01 (0000ms, 0000ms total)
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x01 (0000ms, 0000ms total)
+              
+  ***** Error: Communication timed out: Requested 20 bytes, received 0 bytes !  returns 0x00000000 (5306ms, 5854ms total)
+T3B74 000:700 
+  ***** Error: Connection to emulator lost! (5470ms, 11324ms total)
+T3914 007:658 JLINK_Close() (0000ms, 5854ms total)
+T3914 007:658  (0000ms, 5854ms total)
+T3914 007:658 Closed (0000ms, 5854ms total)

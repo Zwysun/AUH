@@ -1,0 +1,15 @@
+
+T1D18 000:533 SEGGER J-Link V5.02c Log File (0007ms, 0331ms total)
+T1D18 000:533 DLL Compiled: Sep 10 2015 17:39:31 (0008ms, 0332ms total)
+T1D18 000:533 Logging started @ 2017-06-29 23:50 (0008ms, 0332ms total)
+T1D18 000:541 JLINK_SetWarnOutHandler(...) (0000ms, 0332ms total)
+T1D18 000:541 JLINK_OpenEx(...)
+Firmware: J-Link OpenSDA 2 compiled Oct 13 2015 12:10:27
+Hardware: V1.00
+S/N: 621000000  returns O.K. (0308ms, 0640ms total)
+T1D18 000:849 JLINK_SetErrorOutHandler(...) (0000ms, 0640ms total)
+T1D18 000:849 JLINK_ExecCommand("ProjectFile = "D:\科研\17-06\ACT\第一期\project\Project\RVMDK（uv4）\JLinkSettings.ini"", ...)  returns 0x00 (0002ms, 0642ms total)
+T1D18 000:856 JLINK_ExecCommand("Device = STM32F103VE", ...)
+                JLINK_Close() (0001ms, 0001ms total)
+                 (0001ms, 0001ms total)
+                Closed (0002ms, 0002ms total)

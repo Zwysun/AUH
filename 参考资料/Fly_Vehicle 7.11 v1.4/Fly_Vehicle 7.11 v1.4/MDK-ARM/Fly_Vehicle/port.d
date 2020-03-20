@@ -1,0 +1,12 @@
+fly_vehicle\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+fly_vehicle\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+fly_vehicle\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+fly_vehicle\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+fly_vehicle\port.o: ../Inc/FreeRTOSConfig.h
+fly_vehicle\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+fly_vehicle\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+fly_vehicle\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+fly_vehicle\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+fly_vehicle\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+fly_vehicle\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+fly_vehicle\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

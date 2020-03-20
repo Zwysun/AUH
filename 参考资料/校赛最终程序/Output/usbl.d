@@ -1,0 +1,15 @@
+..\..\output\usbl.o: ..\..\User\USBL.c
+..\..\output\usbl.o: ..\..\User\usbl.h
+..\..\output\usbl.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\usbl.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\usbl.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\usbl.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\usbl.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\usbl.o: ..\..\User\stm32f10x_conf.h
+..\..\output\usbl.o: ..\..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\..\output\usbl.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\usbl.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\usbl.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\usbl.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\output\usbl.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\usbl.o: ..\..\Libraries\FWlib\inc\misc.h
